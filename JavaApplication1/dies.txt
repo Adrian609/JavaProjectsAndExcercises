@@ -1,0 +1,10 @@
+It is a tie3 3
+It is a tie5 3
+It is a tie3 2
+It is a tie1 1
+It is a tie5 1
+It is a tie5 1
+It is a tie3 3
+It is a tie2 3
+It is a tie5 5
+It is a tie6 1
